@@ -46,6 +46,7 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 10.`Qual o ponto de se usar Redux?`<br/>
 
 11.`Explique a diferença de null e undefined em JavaScript`<br/> 
+  Null é um objeto é pode ser atribuido a uma variável enquanto undefined é um tipo. 
 
 12.`Liste as vantagens da arquitetura de microsserviços`<br/> 
 
